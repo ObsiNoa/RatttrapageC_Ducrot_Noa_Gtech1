@@ -1,0 +1,7 @@
+﻿  initialisation.c
+C:\Users\nducrot\source\repos\prepa\initialisation.c(8,18): warning C4098: 'init' : fonction 'void' retournant une valeur
+C:\Users\nducrot\source\repos\prepa\initialisation.c(22,18): warning C4098: 'window' : fonction 'void' retournant une valeur
+C:\Users\nducrot\source\repos\prepa\initialisation.c(33,18): warning C4098: 'renderer' : fonction 'void' retournant une valeur
+  main.c
+  Génération de code en cours...
+  prepa.vcxproj -> C:\Users\nducrot\source\repos\prepa\x64\Debug\prepa.exe

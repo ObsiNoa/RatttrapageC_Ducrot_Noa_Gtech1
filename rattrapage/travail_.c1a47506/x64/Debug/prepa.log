@@ -1,0 +1,4 @@
+﻿  objet.c
+C:\Users\nducrot\source\repos\rattrapage\objet.c(15,12): warning C4098: 'image' : fonction 'void' retournant une valeur
+C:\Users\nducrot\source\repos\rattrapage\objet.c(22,12): warning C4098: 'image' : fonction 'void' retournant une valeur
+  prepa.vcxproj -> C:\Users\nducrot\source\repos\rattrapage\x64\Debug\travail_rattrapage_C.exe
